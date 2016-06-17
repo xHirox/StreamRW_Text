@@ -1,5 +1,6 @@
 # StreamRW_Text  
 
+(使うかどうかは分からない)  
 System.IO.StreamReader/StreamWriterを使用した、基本的なテキストファイルの読み出し・書き出し用のクラスライブラリです。  
 
 ---  
